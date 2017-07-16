@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "239414820660",
+    "firebase_url": "https://recordinghouse-2c286.firebaseio.com",
+    "project_id": "recordinghouse-2c286",
+    "storage_bucket": "recordinghouse-2c286.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239414820660:android:91d42a63b3682c39",
+        "android_client_info": {
+          "package_name": "com.voiceup.sumantbhandari.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239414820660-ueq691jq36ktcd7e8b1g643q9smpcguf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voiceup.sumantbhandari.social",
+            "certificate_hash": "D8A03EDAC3F06E7AB171FC8F4F0687C37F10F767"
+          }
+        },
+        {
+          "client_id": "239414820660-24797r8aq634jhsj549v0jbpnedmun0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgDpVQeFA4hWcaucT0PIBNcSOqIvBe_ck"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239414820660-24797r8aq634jhsj549v0jbpnedmun0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
